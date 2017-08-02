@@ -1,0 +1,926 @@
+{
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "A",
+      "N",
+      "T",
+      "E",
+      false,
+      "B",
+      "E",
+      "T",
+      "C",
+      "H",
+      "A",
+      false,
+      "J",
+      "R",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "O",
+      "L",
+      false,
+      "E",
+      "L",
+      "O",
+      "P",
+      "E",
+      "S",
+      false,
+      "E",
+      "V",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "G",
+      "R",
+      "A",
+      "M",
+      "M",
+      "I",
+      "N",
+      "G",
+      false,
+      "T",
+      "A",
+      "D"
+    ],
+    [
+      false,
+      false,
+      false,
+      "A",
+      "E",
+      "R",
+      "O",
+      false,
+      false,
+      false,
+      "R",
+      "I",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "V",
+      "I",
+      "S",
+      "T",
+      "A",
+      "S",
+      false,
+      "D",
+      "I",
+      "N",
+      "O",
+      "S",
+      "A",
+      "U",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "O",
+      "D",
+      false,
+      "L",
+      "A",
+      "N",
+      "G",
+      "U",
+      "A",
+      "G",
+      "E",
+      "S"
+    ],
+    [
+      "L",
+      "O",
+      "L",
+      false,
+      false,
+      false,
+      "G",
+      "R",
+      "A",
+      "N",
+      "P",
+      "A",
+      false,
+      false,
+      false
+    ],
+    [
+      "E",
+      "R",
+      "I",
+      "C",
+      "A",
+      false,
+      "A",
+      "N",
+      "D",
+      false,
+      "S",
+      "C",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      false,
+      false,
+      false,
+      "A",
+      "N",
+      "D",
+      "A",
+      "L",
+      "E",
+      false,
+      false,
+      false,
+      "R",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "N",
+      "Y",
+      "M",
+      "I",
+      "T",
+      "Y",
+      false,
+      "A",
+      "U",
+      "G",
+      "N",
+      "P"
+    ],
+    [
+      "S",
+      "O",
+      "F",
+      "T",
+      "W",
+      "A",
+      "R",
+      "E",
+      false,
+      "A",
+      "T",
+      "N",
+      "O",
+      "O",
+      "N"
+    ],
+    [
+      "W",
+      "E",
+      "L",
+      "S",
+      "H",
+      false,
+      false,
+      false,
+      "K",
+      "N",
+      "O",
+      "W",
+      false,
+      false,
+      false
+    ],
+    [
+      "A",
+      "V",
+      "A",
+      false,
+      "E",
+      "N",
+      "G",
+      "I",
+      "N",
+      "E",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      false,
+      "R",
+      "U",
+      "N",
+      "N",
+      "E",
+      "R",
+      false,
+      "A",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "M",
+      "L",
+      "E",
+      false,
+      "E",
+      "L",
+      "U",
+      "D",
+      "E",
+      "D",
+      false,
+      "P",
+      "L",
+      "S",
+      "E"
+    ]
+  ],
+  "clues": [
+    {
+      "index": 1,
+      "row": 0,
+      "col": 0,
+      "across": "Pay to play",
+      "down": "Many a startup product"
+    },
+    {
+      "index": 2,
+      "row": 0,
+      "col": 1,
+      "down": "Universal gate"
+    },
+    {
+      "index": 3,
+      "row": 0,
+      "col": 2,
+      "down": "As well"
+    },
+    {
+      "index": 4,
+      "row": 0,
+      "col": 3,
+      "down": "Star of Spanish YouTube"
+    },
+    {
+      "index": 5,
+      "row": 0,
+      "col": 5,
+      "across": "You ___",
+      "down": "Some residents of the Cascades"
+    },
+    {
+      "index": 6,
+      "row": 0,
+      "col": 6,
+      "down": "Friendly red monster"
+    },
+    {
+      "index": 7,
+      "row": 0,
+      "col": 7,
+      "down": "CSE's professor with highest h-index"
+    },
+    {
+      "index": 8,
+      "row": 0,
+      "col": 8,
+      "down": "Measure of buying power, abbr."
+    },
+    {
+      "index": 9,
+      "row": 0,
+      "col": 9,
+      "down": "It lays eggs"
+    },
+    {
+      "index": 10,
+      "row": 0,
+      "col": 10,
+      "down": "Isomorphic ___ but not as rings"
+    },
+    {
+      "index": 11,
+      "row": 0,
+      "col": 12,
+      "across": "Third yrs.",
+      "down": "Conference woe"
+    },
+    {
+      "index": 12,
+      "row": 0,
+      "col": 13,
+      "down": "It can't be assigned to"
+    },
+    {
+      "index": 13,
+      "row": 0,
+      "col": 14,
+      "down": "Lab activities with lots of wine"
+    },
+    {
+      "index": 14,
+      "row": 1,
+      "col": 0,
+      "across": "March madness lab activity"
+    },
+    {
+      "index": 15,
+      "row": 1,
+      "col": 5,
+      "across": "Runs to marry"
+    },
+    {
+      "index": 16,
+      "row": 1,
+      "col": 12,
+      "across": "The night before"
+    },
+    {
+      "index": 17,
+      "row": 2,
+      "col": 0,
+      "across": "Lab name, part 1"
+    },
+    {
+      "index": 18,
+      "row": 2,
+      "col": 4,
+      "down": "Common system call"
+    },
+    {
+      "index": 19,
+      "row": 2,
+      "col": 12,
+      "across": "Bit"
+    },
+    {
+      "index": 20,
+      "row": 3,
+      "col": 3,
+      "across": "Like a plane"
+    },
+    {
+      "index": 21,
+      "row": 3,
+      "col": 10,
+      "across": "Rut on the moon"
+    },
+    {
+      "index": 22,
+      "row": 3,
+      "col": 11,
+      "down": "Author Asimov"
+    },
+    {
+      "index": 23,
+      "row": 4,
+      "col": 0,
+      "across": "Good views",
+      "down": "What's between two hills, to a poet"
+    },
+    {
+      "index": 24,
+      "row": 4,
+      "col": 1,
+      "down": "Common Russian name"
+    },
+    {
+      "index": 25,
+      "row": 4,
+      "col": 2,
+      "down": "Passages that call for just one voice"
+    },
+    {
+      "index": 26,
+      "row": 4,
+      "col": 7,
+      "across": "Ancient one",
+      "down": "Exclamation overheard when cell service is bad"
+    },
+    {
+      "index": 27,
+      "row": 4,
+      "col": 8,
+      "down": "\"Rome wasn't built ___,\" in the Ottoman Empire?"
+    },
+    {
+      "index": 28,
+      "row": 4,
+      "col": 9,
+      "down": "Video game review website, abbr."
+    },
+    {
+      "index": 29,
+      "row": 5,
+      "col": 0,
+      "across": "For ___ time, call..."
+    },
+    {
+      "index": 30,
+      "row": 5,
+      "col": 6,
+      "across": "Lab name, part 2",
+      "down": "Name of a hypothetical company that flies out of Queens"
+    },
+    {
+      "index": 31,
+      "row": 6,
+      "col": 0,
+      "across": "Short Slack response"
+    },
+    {
+      "index": 32,
+      "row": 6,
+      "col": 6,
+      "across": "Like some faculty"
+    },
+    {
+      "index": 33,
+      "row": 7,
+      "col": 0,
+      "across": "Common name"
+    },
+    {
+      "index": 34,
+      "row": 7,
+      "col": 3,
+      "down": "What James W. does some Sunday nights"
+    },
+    {
+      "index": 35,
+      "row": 7,
+      "col": 4,
+      "down": "___ but here"
+    },
+    {
+      "index": 36,
+      "row": 7,
+      "col": 6,
+      "across": "Lab name, part 3"
+    },
+    {
+      "index": 37,
+      "row": 7,
+      "col": 10,
+      "across": "SI prefix for measuring inverse CPU frequency"
+    },
+    {
+      "index": 38,
+      "row": 7,
+      "col": 12,
+      "down": "Cogito ___ sum"
+    },
+    {
+      "index": 39,
+      "row": 7,
+      "col": 13,
+      "down": "SI prefix good for inverse CPU frequency"
+    },
+    {
+      "index": 40,
+      "row": 7,
+      "col": 14,
+      "down": "Home of SportsCenter"
+    },
+    {
+      "index": 41,
+      "row": 8,
+      "col": 3,
+      "across": "\"Come on!\" to Diego"
+    },
+    {
+      "index": 42,
+      "row": 8,
+      "col": 5,
+      "down": "Terminal degree in music performance"
+    },
+    {
+      "index": 43,
+      "row": 8,
+      "col": 12,
+      "across": "Recent senior hire for the lab"
+    },
+    {
+      "index": 44,
+      "row": 9,
+      "col": 0,
+      "across": "One benefit of security",
+      "down": "An angry collection of bees"
+    },
+    {
+      "index": 45,
+      "row": 9,
+      "col": 1,
+      "down": "What an emacs expert might recommend to a new user"
+    },
+    {
+      "index": 46,
+      "row": 9,
+      "col": 2,
+      "down": "Recently"
+    },
+    {
+      "index": 47,
+      "row": 9,
+      "col": 10,
+      "across": "Econ. stat followed in Sydney",
+      "down": "One foot-digit"
+    },
+    {
+      "index": 48,
+      "row": 9,
+      "col": 11,
+      "down": "What one does to presents"
+    },
+    {
+      "index": 49,
+      "row": 10,
+      "col": 0,
+      "across": "Lab name, part 4"
+    },
+    {
+      "index": 50,
+      "row": 10,
+      "col": 9,
+      "across": "Lab lunch time",
+      "down": "\"You're such ___\" (lab compliment)"
+    },
+    {
+      "index": 51,
+      "row": 11,
+      "col": 0,
+      "across": "Language sometimes heard in the UK"
+    },
+    {
+      "index": 52,
+      "row": 11,
+      "col": 8,
+      "across": "Believe, both justifiably and truely",
+      "down": "Leg joint"
+    },
+    {
+      "index": 53,
+      "row": 12,
+      "col": 0,
+      "across": "Name of several Seattle apartment buildings"
+    },
+    {
+      "index": 54,
+      "row": 12,
+      "col": 4,
+      "across": "Lab name, part 5"
+    },
+    {
+      "index": 55,
+      "row": 12,
+      "col": 5,
+      "down": "Name of ASCII character with lowest value"
+    },
+    {
+      "index": 56,
+      "row": 12,
+      "col": 6,
+      "down": "It's not Unix"
+    },
+    {
+      "index": 57,
+      "row": 12,
+      "col": 7,
+      "down": "Bach's prelude ___ Major"
+    },
+    {
+      "index": 58,
+      "row": 12,
+      "col": 12,
+      "down": "Sick"
+    },
+    {
+      "index": 59,
+      "row": 12,
+      "col": 13,
+      "down": "Famous gaming sys."
+    },
+    {
+      "index": 60,
+      "row": 12,
+      "col": 14,
+      "down": "Part of applying to UW CSE that really doesn't matter"
+    },
+    {
+      "index": 61,
+      "row": 13,
+      "col": 0,
+      "across": "Slowing dn., in music"
+    },
+    {
+      "index": 62,
+      "row": 13,
+      "col": 4,
+      "across": "Many a lab member"
+    },
+    {
+      "index": 63,
+      "row": 13,
+      "col": 11,
+      "across": "Mariner, for one"
+    },
+    {
+      "index": 64,
+      "row": 14,
+      "col": 0,
+      "across": "Popular stat. technique"
+    },
+    {
+      "index": 65,
+      "row": 14,
+      "col": 4,
+      "across": "Avoided"
+    },
+    {
+      "index": 66,
+      "row": 14,
+      "col": 11,
+      "across": "Lab name, for short"
+    }
+  ],
+  "answers": [
+    [
+      "A",
+      "N",
+      "T",
+      "E",
+      false,
+      "B",
+      "E",
+      "T",
+      "C",
+      "H",
+      "A",
+      false,
+      "J",
+      "R",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "O",
+      "L",
+      false,
+      "E",
+      "L",
+      "O",
+      "P",
+      "E",
+      "S",
+      false,
+      "E",
+      "V",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "G",
+      "R",
+      "A",
+      "M",
+      "M",
+      "I",
+      "N",
+      "G",
+      false,
+      "T",
+      "A",
+      "D"
+    ],
+    [
+      false,
+      false,
+      false,
+      "A",
+      "E",
+      "R",
+      "O",
+      false,
+      false,
+      false,
+      "R",
+      "I",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "V",
+      "I",
+      "S",
+      "T",
+      "A",
+      "S",
+      false,
+      "D",
+      "I",
+      "N",
+      "O",
+      "S",
+      "A",
+      "U",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "O",
+      "D",
+      false,
+      "L",
+      "A",
+      "N",
+      "G",
+      "U",
+      "A",
+      "G",
+      "E",
+      "S"
+    ],
+    [
+      "L",
+      "O",
+      "L",
+      false,
+      false,
+      false,
+      "G",
+      "R",
+      "A",
+      "N",
+      "P",
+      "A",
+      false,
+      false,
+      false
+    ],
+    [
+      "E",
+      "R",
+      "I",
+      "C",
+      "A",
+      false,
+      "A",
+      "N",
+      "D",
+      false,
+      "S",
+      "C",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      false,
+      false,
+      false,
+      "A",
+      "N",
+      "D",
+      "A",
+      "L",
+      "E",
+      false,
+      false,
+      false,
+      "R",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "N",
+      "Y",
+      "M",
+      "I",
+      "T",
+      "Y",
+      false,
+      "A",
+      "U",
+      "G",
+      "N",
+      "P"
+    ],
+    [
+      "S",
+      "O",
+      "F",
+      "T",
+      "W",
+      "A",
+      "R",
+      "E",
+      false,
+      "A",
+      "T",
+      "N",
+      "O",
+      "O",
+      "N"
+    ],
+    [
+      "W",
+      "E",
+      "L",
+      "S",
+      "H",
+      false,
+      false,
+      false,
+      "K",
+      "N",
+      "O",
+      "W",
+      false,
+      false,
+      false
+    ],
+    [
+      "A",
+      "V",
+      "A",
+      false,
+      "E",
+      "N",
+      "G",
+      "I",
+      "N",
+      "E",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      false,
+      "R",
+      "U",
+      "N",
+      "N",
+      "E",
+      "R",
+      false,
+      "A",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "M",
+      "L",
+      "E",
+      false,
+      "E",
+      "L",
+      "U",
+      "D",
+      "E",
+      "D",
+      false,
+      "P",
+      "L",
+      "S",
+      "E"
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+<html>
+<head>
+    <script src="jquery-3.1.1.min.js"
+            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+            crossorigin="anonymous"></script>
+    <style>
+        .cell {
+            border: 1px solid #000;
+            vertical-align: bottom;
+            position: relative;
+        }
+        div.contents {
+            text-align: center;
+        }
+
+        span.contents {
+            font-size: 12pt;
+            display: inline-block;
+        }
+        
+        table {
+            border-collapse: collapse;
+        }
+
+        table.clues {
+            width: 10em;
+        }
+
+        .label {
+            font-size: 6pt;
+            position: absolute;
+            top: 0;
+        }
+
+    </style>
+</head>
+<body>
+    <table>
+      <tr>
+        <td>
+          <table id="grid">
+          </table>
+        </td>
+        <td id="clue">
+        </td>
+      </tr>
+    </table>
+
+
+    <script src="crossword.js">
+    </script>
+
+    <input type="button" id="clear-grid" value="Clear grid">
+    <br />
+
+
+    <input type="checkbox" id="show-advanced"> Show advanced Controls
+    <br />
+
+    <div class="advanced">
+    <input type="button"  id="color-tool" value="Color tool">
+    <br>
+    <input id="color-symmetrically"  type="checkbox" /><span >Color symmetrically</span>
+    <br />
+    <input type="button"  id="answer-tool" value="Answer tool">
+    <br />
+    <input type="button"  id="clue-tool" value="Clue tool">
+    <br />
+    <input type="button"  id="save-grid" value="Save grid as answers">
+    <input type="button"  id="load-grid" value="Load grid from answers">
+    <br />
+    <input type="button"  id="number-grid" value="Number grid">
+
+    <br />
+    <textarea id="dump" rows=10 cols=60></textarea>
+    <br />
+    <input type="button" id="dump-json" value="Dump JSON to text box">
+    <br />
+    <input type="button" id="load-json" value="Load JSON from text box">
+
+    <br />
+    File name: <input type="text" id="load-file-name" value="plse.json" />
+    <br />
+    <input type="button" id="load-from-file" value="Load from file">
+    </div>
+</body>
+</html>
