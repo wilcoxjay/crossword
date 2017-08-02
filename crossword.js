@@ -304,7 +304,7 @@ function loadPuzzleFromFile(filename) {
 
 function loadFile() {
     console.log("loadFile clicked");
-    loadPuzzleFromFile($("#load-file-name").val());
+    loadPuzzleFromFile($("#load-file-name").val() + "?refresh=" + Date.now());
 }
 
 
